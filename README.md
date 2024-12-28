@@ -1,4 +1,4 @@
-[![LinkedIn]([](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s))](https://www.linkedin.com/in/shiva-kumarr-thimmaraveni/)
+[![LinkedIn]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s))](https://www.linkedin.com/in/shiva-kumarr-thimmaraveni/)
 <h1 align="center">Hi 👋, I'm Shiva Kumarr Thimmaraveni</h1>
 <h3 align="center">A passionate Data Scientist & Analyst, & worked as an AI Developer from INDIA</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
