@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thimmaravenii" target="blank"><img src="https://img.shields.io/twitter/follow/thimmaravenii?logo=twitter&style=for-the-badge" alt="thimmaravenii" /></a> </p>
 
-- 🔭 I’m currently working on **TCS**
+- 🔭 I’m currently open to Work
 
 - 🌱 I’m currently learning **Agentic Model Building.**
 
