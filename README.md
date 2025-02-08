@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/thimmaravenii" target="blank"><img src="https://img.shields.io/twitter/follow/thimmaravenii?logo=twitter&style=for-the-badge" alt="thimmaravenii" /></a> </p>
 
-- 🔭 I’m currently open to Work
+- 🔭 I’m currently open to New Work (Working as Prompt Engineer in Soul AI)
 
 - 🌱 I’m currently learning **Agentic Model Building.**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **New Open Positions**
+- 🤝 I’m looking for **New Open Positions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shiva-Kumarr-Thimmaraveni/ML_Projects](https://github.com/Shiva-Kumarr-Thimmaraveni/ML_Projects)
 
